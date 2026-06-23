@@ -4,3 +4,4 @@ scikit-learn
 openpyxl
 pdfplumber
 plotly.express
+xgboost
